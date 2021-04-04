@@ -14,15 +14,15 @@ Network Start Procedure:
 
 Explanation of geth command flags:
 
---datadir Points to the file folder of the node to be run.
---mine Activates mining.
---unlock Unlocks the account such that it can send transactions.
---minerthreads Number of CPU threads to use for mining.
---port Select port for node usage.
---bootnodes Points to the address of the first node for node linkage.
---rpc Enable remoted procedure calls so as to interact with node1.
---allow-insecure-unlock Bypass security for unlock with HTTP open.
---ipcdisable Disable the IPC-RPC server for the sake of Windows compatibility.
+--datadir Points to the file folder of the node to be run.<br/>
+--mine Activates mining.<br/>
+--unlock Unlocks the account such that it can send transactions.<br/>
+--minerthreads Number of CPU threads to use for mining.<br/>
+--port Select port for node usage.<br/>
+--bootnodes Points to the address of the first node for node linkage.<br/>
+--rpc Enable remoted procedure calls so as to interact with node1.<br/>
+--allow-insecure-unlock Bypass security for unlock with HTTP open.<br/>
+--ipcdisable Disable the IPC-RPC server for the sake of Windows compatibility.<br/>
 
 Using MyCrypto to Send Transactions:
 1. Open MyCrypto
